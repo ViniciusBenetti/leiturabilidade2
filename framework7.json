@@ -1,0 +1,18 @@
+{
+  "cwd": "C:\\Users\\vinix\\Desktop\\leiturabilidade",
+  "type": [
+    "web"
+  ],
+  "name": "leiturabilidade",
+  "framework": "core",
+  "template": "blank",
+  "bundler": false,
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#000000",
+    "darkMode": true,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
